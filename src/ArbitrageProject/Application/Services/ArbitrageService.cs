@@ -2,7 +2,6 @@
 using Domain.Entities;
 using Domain.Interfaces;
 using Microsoft.Extensions.Logging;
-using Infrastructure.Persistence.Repositories;
 
 namespace Application.Services;
 

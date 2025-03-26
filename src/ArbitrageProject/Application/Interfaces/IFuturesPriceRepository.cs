@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
 
-namespace Infrastructure.Persistence.Repositories;
+namespace Application.Interfaces;
 
 public interface IFuturesPriceRepository
 {
